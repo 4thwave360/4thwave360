@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4thwave360
+- 👋 Hi, I’m @4thwave360 or BKA Mr. Torres
 - 👀 I’m interested in cybersecurity, primarily network defense, ethical hacking, and digital forensics.
 - 🌱 I’m currently learning network defensive strategies in order to implement the proper protocols and procedure/s
 - 💞️ I’m looking to collaborate on any form of digital forensics, and creating a small team to execute certain objectives.
